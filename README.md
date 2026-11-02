@@ -15,7 +15,7 @@ Each project started with a problem to solve, not a feature list.
 | [Cooking Planner](https://github.com/nick-a-louse/cooking-planner) | Timing every step of a big or special meal gets pretty tedious. Load the steps in beforehand, then on the day just follow the prompts as each one comes up |
 | [Heating history](https://github.com/nick-a-louse/wiser-history) | See which rooms run cold and when, so the heating can be tuned on evidence rather than guesswork. I also like pretty graphs |
 | [Kavita Age-Rater](https://github.com/nick-a-louse/kavita-age-rater) | Children's accounts only see age-appropriate books, without rating a whole library by hand. AI suggests, a person approves |
-| [parkrun family dashboard](https://github.com/nick-a-louse/parkrun-family-dashboard) | One place for the family's results, PBs and milestones, with an email when new results land, instead of checking several pages every weekend |
+| [Parkrun family dashboard](https://github.com/nick-a-louse/parkrun-family-dashboard) | One place for the family's results, PBs and milestones, with an email when new results land, instead of checking several pages every weekend |
 | [TfL departure board](https://github.com/nick-a-louse/tfl-departure-board) | Know whether to leave now with a glance at the wall by the front door, not an app |
 
 The four web apps share one design standard and one build-and-deploy pipeline (GitHub Actions → container registry → Docker on a home server), so each new app starts from a proven baseline instead of from scratch.
